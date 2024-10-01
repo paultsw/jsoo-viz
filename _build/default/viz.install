@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/viz/META"
+  "_build/install/default/lib/viz/dune-package"
+  "_build/install/default/lib/viz/opam"
+]
+bin: [
+  "_build/install/default/bin/viz"
+]
+doc: [
+  "_build/install/default/doc/viz/README.md"
+]

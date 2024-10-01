@@ -1,0 +1,6 @@
+(executable
+ (public_name viz)
+ (name main)
+ (modes byte)
+ (preprocess (pps js_of_ocaml-ppx))
+ (libraries viz js_of_ocaml js_of_ocaml-lwt js_of_ocaml-lwt.graphics))
